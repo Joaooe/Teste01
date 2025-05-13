@@ -1,0 +1,11 @@
+.lista-Livros {
+    list-style-type: circle;
+    padding-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .lista-Livros li {
+    font-size: 1em;
+    color: #333;
+  }
+  
